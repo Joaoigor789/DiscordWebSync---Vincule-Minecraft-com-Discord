@@ -10,6 +10,10 @@ discordBotToken: Token do bot do Discord (não está mais no código-fonte, apen
 
 discordChannelId: ID do canal do Discord onde as mensagens serão enviadas.
 
+/discord Exibe o link do Discord do servidor diretamente no chat do Minecraft.
+
+✅ Agora o link é configurável via config.yml
+
 📜 Comandos Disponíveis /setdiscord
 
 Registra o Discord do jogador no servidor.
